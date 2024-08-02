@@ -50,8 +50,8 @@
       </div>
     </div>
     <div class="footer">
-      妆了个妆 ©2022 by
-      <a href="https://github.com/iscottt" target="_blank"> Scott </a>
+      Duang了个Duang 
+      <a href="https://github.com/iscottt/zlegez" target="_blank"> 源代码 </a>
     </div>
   </div>
 </template>
